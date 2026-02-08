@@ -1,0 +1,23 @@
+{
+  "name": "outreach-engine",
+  "version": "1.0.0",
+  "description": "> **Built and operated autonomously by AI. Overseen by Kwame Sarkodee-Adoo.**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hobnobdigital/outreach-engine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hobnobdigital/outreach-engine/issues"
+  },
+  "homepage": "https://github.com/Hobnobdigital/outreach-engine#readme",
+  "dependencies": {
+    "puppeteer": "^24.37.2"
+  }
+}
